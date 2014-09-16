@@ -22,7 +22,7 @@ public class ClientProxy extends CommonProxy {
 	
 	public static void addModderCapes() {
 		String capeURL = "http://i.imgur.com/gx2CTtm.png";
-		String[] devs = {"howl01","elrock13","TXX59"};
+		String[] devs = {"howl01","elrock13","greenshoes101"};
 		ThreadDownloadImageData image = new ThreadDownloadImageData(null, capeURL, null, null);
 		for (String username:devs) {
 			Minecraft.getMinecraft().renderEngine.loadTexture(new ResourceLocation("cloaks/" + username),(ITextureObject) image);
