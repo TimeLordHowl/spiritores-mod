@@ -1,0 +1,87 @@
+!SESSION 2014-08-07 14:14:12.690 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:14:45.814
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:14:45.816
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY org.eclipse.core.net 1 0 2014-08-07 14:14:46.143
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2014-08-07 14:14:47.854
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:14:49.450
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:14:49.452
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:15:14.770
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:15:14.772
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+!SESSION 2014-08-07 14:16:14.598 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:33.312
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:33.315
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY org.eclipse.core.net 1 0 2014-08-07 14:16:33.659
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:36.417
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:36.419
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:56.881
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-08-07 14:16:56.882
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+!SESSION 2014-09-10 14:57:54.648 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/Alex/.eclipse_keyring -showlocation
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:58:09.681
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:58:09.688
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-10 14:58:10.069
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:58:14.406
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:58:14.408
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:59:14.647
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-10 14:59:14.650
+!MESSAGE unexpected method call (NullSarosSession.java:64)

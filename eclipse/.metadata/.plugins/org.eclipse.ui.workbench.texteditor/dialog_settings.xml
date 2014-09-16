@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="263" key="DIALOG_WIDTH"/>
+		<item value="65" key="DIALOG_Y_ORIGIN"/>
+		<item value="844" key="DIALOG_X_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="reed" key="selection"/>
+		<list key="findhistory">
+			<item value="reed"/>
+			<item value="dart"/>
+			<item value="tabIcon"/>
+			<item value="Helmet"/>
+			<item value="Pickaxe"/>
+			<item value="Item.redstone"/>
+			<item value="Item.stick"/>
+			<item value="BlockFenceGate"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Boots"/>
+			<item value="Leggings"/>
+			<item value="Chestplate"/>
+			<item value="Helmet"/>
+			<item value="DartGun"/>
+			<item value="Sword"/>
+			<item value="Hoe"/>
+			<item value="Shovel"/>
+		</list>
+	</section>
+</section>

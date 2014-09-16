@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor.ArmorMaterial"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item.ToolMaterial"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.util.EnumHelper"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="net.minecraft.world.World"/>
+<fullyQualifiedTypeName name="javax.swing.Icon"/>
+<fullyQualifiedTypeName name="net.minecraft.block.BlockFenceGate"/>
+<fullyQualifiedTypeName name="howl01.spiritores.blocks.SpiritFenceGate"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="howl01.spiritores.items.DimensionForgedDartGun"/>
+</qualifiedTypeNameHistroy>
